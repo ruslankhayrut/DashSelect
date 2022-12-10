@@ -1,12 +1,12 @@
 import dash
 from dash import html, Input, Output, State
-import dash_select
+import dash_select as ds
 
 app = dash.Dash(__name__)
 
 app.layout = html.Div(
     [
-        dash_select.Select(
+        ds.Select(
             id="my_select",
             options=list(range(10)),
             value=[2],
