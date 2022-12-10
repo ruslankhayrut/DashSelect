@@ -3,7 +3,7 @@ module DashSelect
 using Dash
 
 const resources_path = realpath(joinpath( @__DIR__, "..", "deps"))
-const version = "0.0.1"
+const version = "1.0"
 
 include("jl/select.jl")
 

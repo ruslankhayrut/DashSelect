@@ -1,6 +1,6 @@
 Package: dashSelect
 Title: A Dash wrapper for <select> component
-Version: 0.0.1
+Version: 1.0.1
 Description: A Dash wrapper for <select> component
 Depends: R (>= 3.0.2)
 Imports: 

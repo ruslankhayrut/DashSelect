@@ -2,7 +2,7 @@
 name = "DashSelect"
 uuid = "1b08a953-4be3-4667-9a23-7d74d3e7860c"
 authors = ["Ruslan Khairutdinov <ruslan.khairutdinov22@gmail.com>"]
-version = "0.0.1"
+version = "1.0"
 
 [deps]
 Dash = "1b08a953-4be3-4667-9a23-3db579824955"
