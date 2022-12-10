@@ -1,0 +1,11 @@
+include dash_select/dash_select.min.js
+include dash_select/dash_select.min.js.map
+include dash_select/async-*.js
+include dash_select/async-*.js.map
+include dash_select/*-shared.js
+include dash_select/*-shared.js.map
+include dash_select/metadata.json
+include dash_select/package-info.json
+include README.md
+include LICENSE
+include package.json
