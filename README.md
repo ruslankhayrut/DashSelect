@@ -30,3 +30,6 @@ Select(
 # Usage
 
 See `usage.py` for a code example
+
+# Output
+![Example](static/example.png)
